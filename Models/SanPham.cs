@@ -1,0 +1,4 @@
+class SanPham
+{
+    int id;
+}
